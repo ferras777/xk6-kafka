@@ -1,4 +1,4 @@
-module github.com/mostafa/xk6-kafka
+module github.com/ferras777/xk6-kafka
 
 go 1.17
 
